@@ -1,0 +1,82 @@
+.fundo{
+    background: url(fundo1.jpg) ;
+    background-size:cover ;
+    height: 70%;
+    text-align: center;
+    padding-top: 15%;
+    
+}
+
+.intro{color: white;
+    padding-left: 32%;
+    padding-right: 32%;
+    width: 45%;
+    ;
+}
+
+#botao{color: white;
+    border: solid white 2px; 
+    padding: 20px;   
+    text-align: center;
+    width: 25px;
+ 
+}
+
+body{background-color: rgb(2, 27, 56);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+}
+h1{
+    font-size: 48;
+    text-align: center; 
+    color: white;  
+    }
+
+
+
+h2{
+    text-align: center;
+    font-size: 30;
+}
+
+h3{
+       text-align: center;
+        font-size: 30;
+}
+
+h4{
+            text-align: center;
+            font-size: 30;
+            }
+
+h5{
+        text-align: center;
+         font-size: 30;
+}
+
+#bar{width: 20%;
+    float:right;
+    position: relative;
+    padding: 15px;
+}
+
+#press{float: left;
+}
+
+p{text-align: justify;
+}
+
+section{padding: 15px;
+}
+
+.pic{width: 45%;}
+
+#video{float: right;
+padding: 1%;}
+
+#vid{float: right;
+padding: 5%;}
+
+    
+}
+
